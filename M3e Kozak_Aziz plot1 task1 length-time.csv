@@ -1,0 +1,10 @@
+Frequency,Acrylic cylinder №,Cylinder length,Runtime t' (s)
+1 Hz (Reflection),1,40.35,30.7
+1 Hz (Reflection),2,81.99,60
+1 Hz (Reflection),3,122.35,92.2
+4 Hz (Reflection),1,40.35,29.7
+4 Hz (Reflection),2,81.99,60.3
+4 Hz (Reflection),3,122.35,92.1
+2 Hz (Transmission),1,40.35,29.5
+2 Hz (Transmission),2,81.99,58.5
+2 Hz (Transmission),3,122.35,91.2
