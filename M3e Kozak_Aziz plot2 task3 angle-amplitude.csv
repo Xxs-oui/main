@@ -1,0 +1,22 @@
+Angle,Amplitude longitudinal,Amplitude transverse,Amplitude
+0,0.5,0.239,none
+5,0.461,0.256,none
+10,0.427,0.207,none
+15,0.398,0.147,none
+20,none,none,0.516
+25,none,none,0.41
+30,none,none,0.495
+32.5,0.321,0.419,none
+35,0.141,0.419,none
+37.5,0.044,0.419,none
+40,0.022,0.419,none
+45,0,0.457,none
+50,0,0.419,none
+55,0,0.397,none
+60,0,0.381,none
+65,0,0.365,none
+70,0,0.316,none
+75,0,0.185,none
+80,0,0.169,none
+85,0,0.12,none
+90,none,none,0.343
