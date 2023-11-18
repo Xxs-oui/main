@@ -1,5 +1,5 @@
-Resistance (Ω),Voltage (V),Current (mA),Resistance (Ω),Voltage (V),Current (mA)
-100,0.381,3.75,100,4.48,40.3
-200,0.765,3.75,200,4.48,23.3
-1000,3.82,3.75,1000,4.48,4.8
-series,circuit,,parallel,circuit,
+Resistance (Ω),Voltage (V), Voltage error(V),Current (mA),Current error(mA),Resistance (Ω),Voltage (V),Voltage error(V),Current (mA),Current error (mA)
+100,0.381,0.005,3.75,0.06,100,4.48,0.05,40.3,0.9
+200,0.765,0.007,3.75,0.06,200,4.48,0.05,23.3,0.7
+1000,3.82,0.05,3.75,0.06,1000,4.48,0.05,4.8,0.5
+series,circuit,,,,parallel,circuit,,,
